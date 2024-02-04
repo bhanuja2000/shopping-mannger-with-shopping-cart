@@ -1,0 +1,7 @@
+Electronics,w003,bottom,3,45,abans,45
+Electronics,w004,gas cooker,12,57,LG,3 month
+Clothing,woo5,Jeans,8,35,32,Blue
+Electronics,w004,mobile phone,12,34,lg,3 month
+Clothing,wooo8,uiutiut,6,3,45,res
+Clothing,erere,rgfbgtb,4,5,2,red
+Clothing,w00888,shirt,12,12,5,red
